@@ -6,6 +6,6 @@ public class Main {
 		System.out.println(localInteger);
 		localInteger = 100;
 		System.out.println(localInteger);
-		
+
 	}
 }
