@@ -33,5 +33,5 @@ In my code in method `Main` there **is** bug
 
 (www.google.pl)
 
-[1]: http://github.com/  "GOOGLE"
+[1]: http://github.com/  "GIT"
 
